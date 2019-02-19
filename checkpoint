@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/Hiep Nguyen/drug_test/_retrain_checkpoint"
+all_model_checkpoint_paths: "C:/Users/Hiep Nguyen/drug_test/_retrain_checkpoint"
